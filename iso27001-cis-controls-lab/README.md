@@ -55,10 +55,10 @@ The project demonstrates practical Governance, Risk, and Compliance (GRC) and se
 
 ## Repository Structure
 
-governance/
-risk-management/
-iso27001/
-cis-controls/
-procedures/
-assets/
+governance/  
+risk-management/  
+iso27001/  
+cis-controls/  
+procedures/  
+assets/  
 
