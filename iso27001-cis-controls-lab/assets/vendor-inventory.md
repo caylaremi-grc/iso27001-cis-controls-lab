@@ -1,4 +1,4 @@
-# Vendor Inventory – Leman Health Sevices (Switzerland)
+# Vendor Inventory – Leman Health Service (Switzerland)
 
 | Vendor Name | Category | Service Provided | Data Access Level | Data Type Handled | Location | Risk Level | Contract Status | Security Requirements |
 |-------------|----------|------------------|-------------------|--------------------|----------|------------|-----------------|------------------------|
