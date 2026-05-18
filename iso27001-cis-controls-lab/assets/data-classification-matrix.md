@@ -1,4 +1,4 @@
-# Data Classification Matrix – Healthcare Service Company (Switzerland)
+# Data Classification Matrix – Leman Health Service (Switzerland)
 
 | Classification Level | Description | Examples of Data | Access Rules | Security Controls |
 |---------------------|-------------|------------------|--------------|------------------|
@@ -8,5 +8,3 @@
 | Highly Confidential (Sensitive Health Data) | Legally protected health and personal data under Swiss FADP / GDPR special category data | Medical records, diagnoses, lab results, mental health data, genetic data, insurance health claims | Strictly limited to healthcare professionals involved in care | Strong encryption (at rest & in transit), MFA, strict RBAC, logging, data minimization |
 | Restricted (Critical) | Data with extreme impact if exposed or altered | Credentials, cryptographic keys, system admin access, patient identity linking tables | Very limited (admin/security only) | HSM/secure vaults, zero-trust access, continuous monitoring, incident response controls |
 
-
-<img width="1536" height="1024" alt="Data Classification" src="https://github.com/user-attachments/assets/c0163f64-2106-4fbc-b211-e7b01f0860ac" />
