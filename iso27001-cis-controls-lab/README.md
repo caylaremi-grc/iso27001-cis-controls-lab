@@ -15,7 +15,8 @@ The objective of this project is to demonstrate practical Governance, Risk, and 
 ---
 
 ## Company Scenario
-
+| Field | Value |
+|---|---|
 | Company Name | Leman Health Service |
 | Industry | Healthcare |
 | Employees | 120 |
